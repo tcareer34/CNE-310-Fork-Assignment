@@ -1,33 +1,29 @@
-# Project Title
+Mad Lib
 
-One Paragraph of project description goes here.
+ A Mad Lib is a fun, interactive word game where players fill in blanks with specific types of words
+(like nouns, verbs, adjectives, etc.) to create a humorous or surprising story.
+The structure of the story is pre-written, but key parts are left blank for the player to fill in
+without knowing the full context. Once all the blanks are filled, the story is revealed,
+often resulting in funny or unexpected outcomes.
 
-## Getting Started
 
-These instructions will [do something] on your local machine for [development/experimentation/demo].
+Getting Started
 
-### Prerequisites
+These instructions will help you install Pycharm on your local machine to be able to run the Mad Lib project.
 
-[Project] requires [software and version] to run, with [additional packages, libaries, or mods]. The commands below will [upgrade OS and install the prerequisites, or do something else]
+Prerequisites
 
-```
-sudo apt update
-sudo apt upgrade
-sudo apt install package1 package2
-```
-
-## Running
-Once installed you can run the program with the following command
+Mad requires PyCharm Community Edition to run. To download PyCharm, please click on this link: https://www.jetbrains.com/pycharm/download/?section=windows
+and scroll down to the Community Edition to begin your download.
 
 ```
-python cne_demo.py
+Running
+
+Once installed, open up PyCharm, click on "New Project", Select location to save your new project. Click "Create", Right click on "venv" folder and select "New Python file". Name it "Mad Lib.py"
+
 ```
 
-Add any additional ways to run the program below
-
 ```
-python cne_demo.py test.txt
-```
+Thanks
 
-## Thanks
-Provide thank yous and attributions here. If someone helped you, you looked at another repository, or another article, provide it here.
+Thank you Mad Lib from https://www.thewordfinder.com/wordlibs/ to make this project possible. 
