@@ -13,7 +13,7 @@ These instructions will [do something] on your local machine for [development/ex
 ```
 sudo apt update
 sudo apt upgrade
-sudo apt install package1 package2
+sudo apt install python3
 ```
 
 ## Running
