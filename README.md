@@ -17,7 +17,14 @@ Mad requires PyCharm Community Edition to run. To download PyCharm, please click
 and scroll down to the Community Edition to begin your download.
 
 ```
+<<<<<<< HEAD
 Running
+=======
+sudo apt update
+sudo apt upgrade
+sudo apt install python3
+```
+>>>>>>> aaf36bd994cd0cee8fa7d1131e8e923f84be595b
 
 Once installed, open up PyCharm, click on "New Project", Select location to save your new project. Click "Create", Right click on "venv" folder and select "New Python file". Name it "Mad Lib.py"
 
