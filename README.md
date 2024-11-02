@@ -13,11 +13,13 @@ The Mad Lib project requires PyCharm Community Edition and Python 3 to run.
 Download and Install Python 3:
 
 Visit the Python downloads page. https://www.python.org/downloads/windows/
+
 Download the latest version of Python for Windows.
 During installation, ensure the option Add Python to PATH is checked, then click Install Now.
 Download and Install PyCharm Community Edition:
 
 Go to the PyCharm download page. https://www.jetbrains.com/pycharm/download/?section=windows
+
 Scroll to Community Edition and click Download.
 Once downloaded, run the installer and follow the setup instructions.
 Running the Program
