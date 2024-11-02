@@ -3,7 +3,7 @@
 Mad Lib is an interactive word game where players fill in blanks with specific types of words (like nouns, verbs, adjectives, etc.) to create a humorous or surprising story. The structure of the story is pre-written, with key parts left blank for players to fill in without knowing the full context. Once completed, the story is revealed, often resulting in funny or unexpected outcomes.
 
 
-***Getting Started***
+***<u>Getting Started</u>***
 
 These instructions will guide you through installing PyCharm on a Windows computer to set up and run the Mad Lib project for development and experimentation.
 
